@@ -1,0 +1,8 @@
+{
+  "name": "LocalizeMe",
+  "app_id": "2d051899",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
